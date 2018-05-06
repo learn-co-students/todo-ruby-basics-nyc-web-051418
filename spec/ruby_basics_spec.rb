@@ -1,4 +1,4 @@
-frequire 'spec_helper'
+require 'spec_helper'
 require_relative '../lib/ruby_basics.rb'
 
 
